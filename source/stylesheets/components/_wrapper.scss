@@ -1,0 +1,25 @@
+body{
+  background-color: #171312;
+  color: #cec5ce;
+}
+.wrapper{
+  // max-width: 540px;
+  margin: 0, auto;
+  padding: 58px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.wrapper .myname{
+  font-size: 4rem;
+  font-weight: 500;
+}
+
+.wrapper p{
+  font-size: 1em;
+
+}
+.wrapper .title{
+  font-size: 3rem;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
